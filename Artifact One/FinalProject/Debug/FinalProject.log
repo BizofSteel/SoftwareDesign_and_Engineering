@@ -1,0 +1,11 @@
+﻿  Listerine.cpp
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(15,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(1447,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2037,31): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2049,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2050,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2055,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2058,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2060,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Computer Science Capstone - (CS-499)\Final Artifact 1\FinalProject\Listerine.cpp(2061,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  FinalProject.vcxproj -> S:\Computer Science Capstone - (CS-499)\Final Artifact 1\Debug\FinalProject.exe
